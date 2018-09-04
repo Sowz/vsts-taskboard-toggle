@@ -14,7 +14,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.google.com/*"
+        "https://sis-limagrain.visualstudio.com/*"
       ],
       "js": [
         "src/inject/inject.js"
